@@ -23,4 +23,6 @@ yarn solcjs --bin --abi --include-path node_modules/ --base-path . -o . SimpleSt
 npm install --save ethers
 yarn add ethers
 node deploy.js
+
+yarn add dotenv # 环境变量
 ```
