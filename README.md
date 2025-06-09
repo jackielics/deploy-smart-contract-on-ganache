@@ -5,8 +5,11 @@ Related Course: [Learn Blockchain, Solidity, and Full Stack Web3 Development wit
 
 Mainly Solve Specific Version of Packages.
 node == v16.14.2 
+
 npm == 8.5.0 
+
 corepack == 0.10.0 
+
 yarn == 1.22.17 
 
 ```
