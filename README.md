@@ -16,5 +16,7 @@ npm i -g yarn
 npm install --global yarn
 yarn add solc
 yarn solcjs --bin --abi --include-path node_modules/ --base-path . -o . SimpleStorage.sol
+npm install --save ethers
+yarn add ethers
 node deploy.js
 ```
