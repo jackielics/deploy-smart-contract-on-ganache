@@ -26,5 +26,7 @@ node deploy.js
 
 yarn add dotenv # 环境变量
 
+npm install -g ts-node # 安装TypeScript
 yarn add typescript ts-node # TypeScript
+yarn add @types/fs-extra
 ```
