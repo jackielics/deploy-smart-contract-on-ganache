@@ -25,4 +25,6 @@ yarn add ethers
 node deploy.js
 
 yarn add dotenv # 环境变量
+
+yarn add typescript ts-node # TypeScript
 ```
